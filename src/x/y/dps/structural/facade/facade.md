@@ -8,5 +8,5 @@ Structuring a system into subsystems helps reduce complexity. A common design go
 
 ![](https://cos-1257663582.cos.ap-chengdu.myqcloud.com/Notes/Design%20Patterns/facade.jpg)
 
-本质：封装交互，简化调用
+# 本质：封装交互，简化调用
 
