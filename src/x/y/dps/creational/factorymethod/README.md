@@ -7,4 +7,6 @@ Frameworks use abstract classes to define and maintain relationships between obj
 
 # 本质：延迟到子类来选择实现
 
+# 可以用来实现框架，可用来实现Spring的Ioc和DI
+
 
