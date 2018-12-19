@@ -17,6 +17,7 @@ public class Director {
      * 指导生成器构建最终的产品对象
      */
     public void construct(){
-        builder.buildPart();
+        builder.buildPartA();
+        builder.buildPartB();
     }
 }
