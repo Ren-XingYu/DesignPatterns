@@ -21,7 +21,7 @@ You could build an editor for music scores by customizing a general framework fo
         return obj;
     }
     
- 浅度克隆：只负责克隆按值传递的数据（比如基本数据类型、String类型）
+ 浅度克隆：只负责克隆按值传递的数据（比如基本数据类型、String类型）  
  深度克隆：除了浅度克隆要克隆的值外，还负责克隆引用数据类型的数据，基本上就是被克隆实例所有属性数据都会被克隆出来
  
  
